@@ -1,0 +1,28 @@
+name: Texas Guns
+favicon: null
+layout_spectrum: 0.772816529031843
+typography_spectrum: 0.7618635047692806
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.6116040360648185
+  lightness: 0.030085881240665913
+  saturation: 0.7323557918425649
+  rhythmicContrast: 0.15918121859431267
+purpose: []
