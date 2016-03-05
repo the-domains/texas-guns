@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Texas Guns]]></title>
+        <description><![CDATA[Texas Guns]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 05 Mar 2016 17:53:02 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Before it happens]]></title>
+            <description><![CDATA[<article><h1>Before it happens</h1><p>Police respond to situations after they happen.  A little bit of knowledge of firearms and a little bit of training can help you control what happens before and during the situation.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1fea1012d32a4a1934536959a78fbe4c608d116d.jpg"></article>]]></description>
+            <link>undefinedbefore-it-happens/index.html</link>
+            <guid isPermaLink="false">b044d9e5-7c3a-42cc-9ece-8d313273ff74</guid>
+            <pubDate>Sat, 05 Mar 2016 17:52:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
